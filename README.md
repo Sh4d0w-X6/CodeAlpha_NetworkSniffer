@@ -30,3 +30,7 @@ Displays live packet information from your network.
 Npcap must be installed for packet sniffing on Windows.
 
 ## 📁 Project Structure
+CodeAlpha_NetworkSniffer/
+│
+├── sniffer.py
+├── README.md
